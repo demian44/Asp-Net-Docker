@@ -1,0 +1,11 @@
+C:\Users\Demian\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.0\DockerTest.deps.json
+C:\Users\Demian\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.0\DockerTest.runtimeconfig.json
+C:\Users\Demian\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.0\DockerTest.runtimeconfig.dev.json
+C:\Users\Demian\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.0\DockerTest.dll
+C:\Users\Demian\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.0\DockerTest.pdb
+C:\Users\Demian\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.0\DockerTest.csprojAssemblyReference.cache
+C:\Users\Demian\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.0\DockerTest.csproj.CoreCompileInputs.cache
+C:\Users\Demian\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.0\DockerTest.AssemblyInfoInputs.cache
+C:\Users\Demian\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.0\DockerTest.AssemblyInfo.cs
+C:\Users\Demian\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.0\DockerTest.dll
+C:\Users\Demian\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.0\DockerTest.pdb
